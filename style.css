@@ -3,14 +3,14 @@ body{
 background-color:rgb(255, 255, 255) ;
 }
 
-Estilizar o título principal do seu site
+
  h1{
 color: rgb(38, 106, 170);
 font-family:Arial;
 background: white;
 }
 
-Estilizar os parágrafos
+
 p{
 color: black ;
 font-family: arial;
