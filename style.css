@@ -7,15 +7,15 @@ Estilizar o título principal do seu site
  h1{
 color: rgb(38, 106, 170);
 font-family:Arial;
-background: ;
+background: white;
 }
 
 Estilizar os parágrafos
 p{
-color: ;
-font-family: ;
-font-size: ;
-background: ;
+color: black ;
+font-family: arial;
+font-size: 
+background:white ;
 text-align:center;
 }
 
